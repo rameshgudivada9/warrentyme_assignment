@@ -7,7 +7,7 @@
   flex-direction: column;
 }
 .usercard {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 40%;
   margin-right: 5px;
 }
@@ -39,6 +39,6 @@
 .content {
   display: flex;
   flex-direction: column;
-  border: 1px solid blue;
+  border: 1px solid black;
 }
 

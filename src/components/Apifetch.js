@@ -42,7 +42,6 @@ export const Apifetch = () => {
     <Fragment>
       <div className="container">
         <div className="Searchdiv-main">
-          <div className="searchIcon"></div>
           <div className="searchinputdiv">
             <input
               className="searchInput"
@@ -90,7 +89,6 @@ export const Apifetch = () => {
                           <div>
                             <a href={ele.url}>link</a>
                           </div>
-                         
                         </div>
                       </div>
                     </Fragment>
